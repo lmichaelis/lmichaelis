@@ -10,7 +10,7 @@
 
 Hi! I'm Luis,a self-taught full-stack software developer from Germany. I currently work at a large research institute writing software for research into renewable energy and analysis of existing systems. There, I mostly work with _Python_ and _TypeScript_ developing internal web applications.
 
-Apart from those programming languages I'm also well-versed in _Java_ and _C++_. In fact, I am currently working on a C++ library called [phoenix](https://github.com/lmichaelis/phoenix) which implements file formats used by an early 2000's game-engine called _ZenGin_.
+Apart from those programming languages I'm also well-versed in _Java_ and _C++_. In fact, I am currently working on a C++ library called [ZenKit](https://github.com/GothicKit/ZenKit) which implements file formats used by an early 2000's game-engine called _ZenGin_.
 
 ## 💾 My Projects
 
@@ -18,7 +18,7 @@ I've been working on a lot of small and large projects over the years. Here's a 
 
 | Project       | Description      |
 |:-------------:|------------------|
-| [phoenix](https://github.com/lmichaelis/phoenix) | A library for parsing file formats used by the [Gothic](https://en.wikipedia.org/wiki/Gothic_(video_game)) and [Gothic II](https://en.wikipedia.org/wiki/Gothic_II) games by [PiranhaBytes](https://www.piranha-bytes.com/) written in C++ |
+| [ZenKit](https://github.com/GothicKit/ZenKit) | A library for parsing file formats used by the [Gothic](https://en.wikipedia.org/wiki/Gothic_(video_game)) and [Gothic II](https://en.wikipedia.org/wiki/Gothic_II) games by [PiranhaBytes](https://www.piranha-bytes.com/) written in C++ |
 | [phoenix-studio](https://github.com/lmichaelis/phoenix-studio) | A set of tools using the [phoenix](https://github.com/lmichaelis/phoenix) library written in C++ |
 | [rtc-driver-rpi](https://github.com/lmichaelis/rtc-driver-rpi) | A basic Linux device driver for the DS3231 RTC chip written in C |
 | [Computer-Simulation](https://github.com/lmichaelis/Computer-Simulation) |  A simple emulator for the assembly language used by Ben Eater's [breadboard computer](https://eater.net/8bit) written in Python. |
