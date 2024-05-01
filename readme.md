@@ -32,6 +32,7 @@ I've been working on a lot of small and large projects over the years. Here's a 
 Here are some projects I've contributed to:
 
 * [OpenGothic](https://github.com/Try/OpenGothic)
+* [Gothic VR](https://github.com/GothicVRProject/GothicVR)
 * [ZenLib](https://github.com/ataulien/ZenLib)
 * [Lexy](https://github.com/foonathan/lexy)
 * [AdvancedChat](https://github.com/DarkKronicle/AdvancedChat)
