@@ -8,7 +8,7 @@
 
 # 👋 About Me
 
-Hi! I'm Luis,a self-taught full-stack software developer from Germany. I currently work at a large research institute writing software for research into renewable energy, science communication and control software for scanning-LiDAR hardware used in wind measurements and siting. There, I mostly work with _Python_ data analysis libraries such as [Pandas](https://pandas.pydata.org/), [numpy](https://numpy.org/) and [Xarray](https://docs.xarray.dev/en/stable/index.html), but I also work with _TypeScript_ and _JavaScript_ frameworks like [Vue.js](https://vuejs.org/) and [Angular](https://angular.dev/) for web development.
+Hi! I'm Luis,a self-taught full-stack software developer from Germany. I currently work at the [Fraunhofer Institute for Energy Economics and Energy System Technology](https://www.iee.fraunhofer.de/en.html) where I write software for research into renewable energy, science communication and control of scanning-LiDAR hardware used in wind measurements and siting. I mostly work with _Python_ data analysis libraries such as [Pandas](https://pandas.pydata.org/), [numpy](https://numpy.org/) and [Xarray](https://docs.xarray.dev/en/stable/index.html), but I also work with _TypeScript_ and _JavaScript_ frameworks like [Vue.js](https://vuejs.org/) and [Angular](https://angular.dev/) for web development.
 
 Apart from those programming languages I'm also well-versed in _Java_ and _C++_. In fact, I am currently working on a C++ library called [ZenKit](https://github.com/GothicKit/ZenKit) which implements file formats used by an early 2000's game-engine called _ZenGin_.
 
