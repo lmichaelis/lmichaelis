@@ -20,6 +20,7 @@ I've been working on a lot of small and large projects over the years. Here's a 
 |:-------------:|------------------|
 | [ZenKit](https://github.com/GothicKit/ZenKit) | A library for parsing file formats used by the [Gothic](https://en.wikipedia.org/wiki/Gothic_(video_game)) and [Gothic II](https://en.wikipedia.org/wiki/Gothic_II) games by [PiranhaBytes](https://www.piranha-bytes.com/) written in C++. [C#](https://github.com/GothicKit/ZenKitCS), [Java](https://github.com/GothicKit/ZenKit4J) and [Python](https://github.com/GothicKit/ZenKit4Py) wrappers exist. |
 | [dmusic](https://github.com/GothicKit/dmusic) | A partial re-implementation of [DirectMusic](https://en.wikipedia.org/wiki/DirectMusic), Microsoft's dynamic music API from <2004, written in C. A C#-wrapper [exists](https://github.com/GothicKit/dmusic-cs). |
+| [mdd](https://github.com/GothicKit/mdd) | *"Modern Daedalus Decompiler"*, a graphical decompiler for the *Daedalus* scripting language used by the [Gothic](https://en.wikipedia.org/wiki/Gothic_(video_game)) and [Gothic II](https://en.wikipedia.org/wiki/Gothic_II) games by [PiranhaBytes](https://www.piranha-bytes.com/), written in Java using Swing and [FlatLAF](https://www.formdev.com/flatlaf/). |
 | [phoenix-studio](https://github.com/lmichaelis/phoenix-studio) | A set of tools using the [ZenKit](https://github.com/GothicKit/ZenKit) library written in C++ |
 | [rtc-driver-rpi](https://github.com/lmichaelis/rtc-driver-rpi) | A basic Linux device driver for the DS3231 RTC chip written in C |
 | [Computer-Simulation](https://github.com/lmichaelis/Computer-Simulation) |  A simple emulator for the assembly language used by Ben Eater's [breadboard computer](https://eater.net/8bit) written in Python. |
@@ -32,7 +33,7 @@ I've been working on a lot of small and large projects over the years. Here's a 
 Here are some projects I've contributed to:
 
 * [OpenGothic](https://github.com/Try/OpenGothic)
-* [Gothic VR](https://github.com/GothicVRProject/GothicVR)
+* [Gothic VR](https://github.com/GothicVRProject/GothicVR) and its successor [Gothic UnZENity](https://github.com/Gothic-UnZENity-Project/Gothic-UnZENity)
 * [ZenLib](https://github.com/ataulien/ZenLib)
 * [Lexy](https://github.com/foonathan/lexy)
 * [AdvancedChat](https://github.com/DarkKronicle/AdvancedChat)
