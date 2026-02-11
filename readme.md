@@ -4,7 +4,7 @@
 
 [![](https://img.shields.io/badge/Website-lmichaelis.de-informational)](https://lmichaelis.de)
 ![](https://img.shields.io/badge/Languages-C%20%7C%20C%2B%2B%20%7C%20Python%20%7C%20TypeScript%20%7C%20Java-689d6a)
-[![](https://img.shields.io/badge/Matrix-%40luismichaelis%3Amatrix.org-blueviolet)](https://matrix.to/#/@lmichaelis:aard.cc)
+[![](https://img.shields.io/badge/Matrix-%40lmichaelis%3Aaard.cc-blueviolet)](https://matrix.to/#/@lmichaelis:aard.cc)
 
 # 👋 About Me
 
