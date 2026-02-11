@@ -40,4 +40,4 @@ Here are some projects I've contributed to:
 
 ## 📨 How to get in touch
 
-You can get in touch by sending me an E-Mail at the address shown on my GitHub profile. You can also shoot me a message over on Matrix at [@luismichaelis:matrix.org](https://matrix.to/#/@luismichaelis:matrix.org).
+You can get in touch by sending me an E-Mail at the address shown on my GitHub profile. You can also shoot me a message over on Matrix at [@lmichaelis:aard.cc](https://matrix.to/#/@lmichaelis:aard.cc).
